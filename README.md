@@ -2,7 +2,7 @@
 
 This repository provides a Python implementation of Support Vector Machines (SVM) from scratch using a quadratic solver like CXPY. The implementation includes both soft margin and hard margin SVM algorithms.
 
-If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/Gaussian-Naive-Bayes-From-Scratch/blob/main/Gaussian%20Naive%20Bayes.ipynb)
+If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/SVM-from-scratch-Constraints-analysis/blob/main/SVM.ipynb)
 
 ## What Jupyter Notebook has to offer?
 
