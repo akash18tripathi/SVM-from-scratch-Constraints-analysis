@@ -99,10 +99,6 @@ Each kernel has its own characteristics and is suitable for different types of d
 
 The solver library CXPY is utilized to solve the quadratic optimization problem involved in training SVM.
 
-## Jupyter Notebook
-
-The Jupyter Notebook in this repository contains the implementation of Gaussian Naive Bayes using Python. It includes the necessary code and explanations to understand the algorithm and apply it to classification tasks.
-
 ## Contributing
 
 Contributions are welcome and encouraged!
